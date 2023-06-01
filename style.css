@@ -54,6 +54,10 @@ padding: 30px;
     justify-content: center;
  
   }
+  .greeting {
+    text-align: center;
+    padding-bottom: 30px;
+  }
 
   @media (max-width: 600px) {
     .column {
