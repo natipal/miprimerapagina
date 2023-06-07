@@ -1,1 +1,1 @@
-esta es la rama principal
+Hola esto es una prueba de simulacion de conflictosesta es la rama principal
